@@ -8,15 +8,13 @@ P .bio {
 .profile-pic {
   width: 100px;
   height: 100px;
+  transition-duration: 1s;
 }
 
 .profile-pic:hover{
   height: 50%;
   width: 50%;
 
-  top:0;
-  left:0;
-  transition-duration: 1s;
 }
 
 body {
