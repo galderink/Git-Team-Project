@@ -1,4 +1,4 @@
-P .dogPic {
+P .bio {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
@@ -8,4 +8,17 @@ P .dogPic {
 .profile-pic {
   width: 100px;
   height: 100px;
+}
+
+.profile-pic:hover{
+  height: 50%;
+  width: 50%;
+
+  top:0;
+  left:0;
+  transition-duration: 1s;
+}
+
+body {
+  background: linear-gradient(103.9deg, rgb(12,166,180) 3%, rgb(100,51,161) 93.9%);
 }
