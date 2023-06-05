@@ -1,0 +1,11 @@
+P .dogPic {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+.profile-pic {
+  width: 100px;
+  height: 100px;
+}
